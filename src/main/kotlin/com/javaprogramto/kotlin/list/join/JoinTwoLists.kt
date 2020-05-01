@@ -1,4 +1,4 @@
-package com.javaprogramto.kotlin.collections.list
+package com.javaprogramto.kotlin.list.join
 
 fun main() {
 

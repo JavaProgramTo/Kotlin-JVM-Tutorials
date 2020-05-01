@@ -1,4 +1,4 @@
-package com.javaprogramto.kotlin.list
+package com.javaprogramto.kotlin.list.join
 
 import org.apache.commons.collections4.ListUtils
 
